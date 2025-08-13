@@ -127,11 +127,7 @@
     },
     {
         "key": "presence",
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1752395767917%2C%22v%22%3A1%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-07-13T08:40:19.800Z",
-        "lastAccessed": "2025-07-13T08:40:19.800Z"
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1752395767917%2C%22v%22%3A1%
     }
 ]
+
